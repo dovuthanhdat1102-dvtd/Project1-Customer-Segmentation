@@ -6,3 +6,4 @@ matplotlib
 seaborn
 pickle-mixin
 openpyxl
+plotly
