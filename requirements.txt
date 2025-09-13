@@ -7,3 +7,4 @@ seaborn
 pickle-mixin
 openpyxl
 plotly
+squarify
