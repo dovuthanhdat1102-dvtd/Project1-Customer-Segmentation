@@ -8,3 +8,4 @@ pickle-mixin
 openpyxl
 plotly
 squarify
+streamlit-option-menu
